@@ -1,3 +1,2 @@
 # GitCcource
 GitCource
-## notes
